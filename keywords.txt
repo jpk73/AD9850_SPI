@@ -1,0 +1,9 @@
+AD9850_SPI	KEYWORD1
+begin	KEYWORD2
+freq	KEYWORD2
+freq_phase	KEYWORD2
+sleep	KEYWORD2
+calc_freq	KEYWORD2
+update	KEYWORD2
+buffered	KEYWORD2
+
